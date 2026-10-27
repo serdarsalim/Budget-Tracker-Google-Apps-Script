@@ -2,6 +2,10 @@
 
 A free budgeting app that keeps every number in your own Google Sheet. Track expenses, subscriptions and net worth from any device, and own the data outright.
 
+[![Simplify Budget](docs/screenshot.png)](https://simplifybudget.vercel.app)
+
+**[Website](https://simplifybudget.vercel.app)** · **[Open the app](https://script.google.com/macros/s/AKfycbxzQyt4DRFwscUe5INomAYM2yDsYVbU1PuPkGJQyPSMb5pfPeL4XWxoDIBeOYmCoaax/exec)**
+
 ## What you get
 
 - Expenses by category, with monthly budgets and a savings goal
