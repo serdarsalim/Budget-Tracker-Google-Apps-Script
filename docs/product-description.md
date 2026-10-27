@@ -1,7 +1,6 @@
 ## AI-Readable Product Description (Public-Facing)
 
 **Product name:** Simplify Budget  
-**Website:** simplifybudget.com  
 **Category:** Personal finance / budgeting web app  
 **Best for:** Individuals, families, and freelancers who want private, synced budgeting with data stored in their own Google Drive
 
